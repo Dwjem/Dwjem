@@ -23,5 +23,12 @@
 
 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
 
+我相信优秀的前端工程应当兼具 **技术优雅** 与 **用户体验** 。
+
+在追求代码质量的同时，始终保持对用户需求的敏感度，通过技术创新解决实际问题。
+
+## 🔧 核心技能
+
+[![核心技能](https://skillicons.dev/icons?i=html,js,ts,css,vue,pinia,tailwind,vite,nodejs,git,npm,pnpm,vscode,webstorm,md)](https://skillicons.dev)
 
 
